@@ -8,6 +8,12 @@
     <string name="sample_cupcake">Cupcakes de Muestra</string>
     <string name="cupcake_price">Precio por cupcake $%s</string>
 
+    <!-- Textos en SelectFlavorScreen -->
+    <string name="extra_instructions">Otras instrucciones</string>
+    <string name="subtotal">Subtotal: $ %s</string>
+    <string name="cancel">Cancelar</string>
+    <string name="next">Siguiente</string>
+
     <!-- Textos en DataSource -->
     <string name="vanilla">Vainilla</string>
     <string name="chocolate">Chocolate</string>
