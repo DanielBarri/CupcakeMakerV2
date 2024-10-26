@@ -14,6 +14,21 @@
     <string name="cancel">Cancelar</string>
     <string name="next">Siguiente</string>
 
+    <!-- Textos en SelectDateScreen -->
+    <string name="pickup_instructions">Instrucciones de recolección</string>
+
+    <!-- Textos en OrderSummaryScreen -->
+    <string name="quantity">Cantidad: </string>
+    <string name="flavor">Sabor: </string>
+    <string name="pickup_date">Fecha de recolección: </string>
+    <string name="share">Enviar a otra app</string>
+    <string name="send">Enviar orden</string>
+
+    <!-- Textos en OrderSummaryScreen -->
+    <string name="Thanks">¡Gracias por su compra!\nVuelva pronto</string>
+    <string name="start_over">Volver a inicio</string>
+
+
     <!-- Textos en DataSource -->
     <string name="vanilla">Vainilla</string>
     <string name="chocolate">Chocolate</string>
